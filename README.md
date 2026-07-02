@@ -5,7 +5,7 @@
 Βήμα 1 — Άλλαξε τα νούμερα στο Gradle
 Άνοιξε app/build.gradle.kts, μέσα στο defaultConfig:
 kotlinversionCode = 2        // +1 κάθε φορά. ΠΑΝΤΑ μεγαλύτερο από πριν.
-versionName = "1.1"    // ό,τι θες, για ανθρώπους
+versionName = "1.1"    // 
 Πάτα Sync Now πάνω δεξιά.
 
 Ο versionCode είναι ο αριθμός που κρίνει το update. Αν δεν τον αυξήσεις, κανένα κινητό δεν θα δει ενημέρωση.
